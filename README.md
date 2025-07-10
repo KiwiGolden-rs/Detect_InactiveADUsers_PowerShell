@@ -1,0 +1,1 @@
+# Detect_InactiveADUsers_PowerShell
