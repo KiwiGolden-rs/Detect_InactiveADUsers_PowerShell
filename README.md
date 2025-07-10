@@ -91,5 +91,3 @@ Its main goals were to:
 ## 📄 License
 
 MIT License
-
-This project is open-source and free to use or modify for learning purposes or internal IT operations.
